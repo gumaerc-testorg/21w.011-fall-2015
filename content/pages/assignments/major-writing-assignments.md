@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 title: Major Writing Assignments
 uid: 9c792343-837a-990f-cdb8-7552b6ece75c

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 title: Oral Presentations
 uid: cda9baad-6032-0244-e9b7-58110cea9bb7

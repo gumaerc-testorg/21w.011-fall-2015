@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding some past topics for
   essay 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/e647c3adbfe4e0e9544b8f333c53a83b_MIT21W_011F15_past.pdf
+file: /media/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/e647c3adbfe4e0e9544b8f333c53a83b_MIT21W_011F15_past.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Some Past Topics for
   Essay 2'

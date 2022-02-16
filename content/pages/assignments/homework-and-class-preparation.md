@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 title: Homework and Class Preparation
 uid: afec655a-84e5-91dc-46a3-3677892e7504

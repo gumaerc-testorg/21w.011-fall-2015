@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding essay 2: research/Investigative
   essay.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/5b044fdf8122d9a451a51c828c70d287_MIT21W_011F15_essay2.pdf
+file: /media/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/5b044fdf8122d9a451a51c828c70d287_MIT21W_011F15_essay2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Essay 2: Research/Investigative
   Essay'

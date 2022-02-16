@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding course information sheet.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/c0b1d34a01604597f926405f1c9da8aa_MIT21W_011F15_Course.pdf
+file: /media/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/c0b1d34a01604597f926405f1c9da8aa_MIT21W_011F15_Course.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Course Information
   Sheet'
