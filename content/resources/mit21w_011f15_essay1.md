@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Essay 1: Reasons To
   Believe: Reflections on Ethical Values and Social Awareness'

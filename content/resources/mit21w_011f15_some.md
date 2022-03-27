@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 704190e8-756c-601b-1e7d-b54035f50703
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Some Logical Fallacies'
 uid: b8a42840-6139-8fdc-0375-c1dfd1049c62

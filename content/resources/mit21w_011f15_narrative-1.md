@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 02c7f260-bda3-4b68-998b-f23593a1651d
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: The Use of Outside
   Sources in Narrative Essays'

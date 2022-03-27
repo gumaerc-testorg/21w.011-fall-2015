@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Advice About Collaboration'
 uid: dea83c28-08bc-9602-fc89-45e0c7bd1d5e

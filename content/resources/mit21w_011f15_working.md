@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 02c7f260-bda3-4b68-998b-f23593a1651d
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Working with Quotes'
 uid: a5dc4ea3-c499-b4f2-4011-d99fecc95962

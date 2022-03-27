@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Essay 2 Workshop Instructions'
 uid: 46257bec-73ac-6f59-7c4c-0d8a84613eac

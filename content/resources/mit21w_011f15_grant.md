@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Major Writing Assignments
 parent_type: CourseSection
+parent_uid: 9c792343-837a-990f-cdb8-7552b6ece75c
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: A Basic Guide to Grant
   Writing'

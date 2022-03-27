@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Major Writing Assignments
 parent_type: CourseSection
+parent_uid: 9c792343-837a-990f-cdb8-7552b6ece75c
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Grant Proposal Ideas'
 uid: 234a373a-96c7-c0ed-0b56-1c248c1c195b
