@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding assignment 3: grant
   proposal.'
-file: /media/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/3c2be3d607f21a15f77d65a50d09ba52_MIT21W_011F15_grant.pdf
+file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/3c2be3d607f21a15f77d65a50d09ba52_MIT21W_011F15_grant.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -15,3 +15,5 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Assignment 3: Gr
   Proposal'
 uid: 3c2be3d6-07f2-1a15-f77d-65a50d09ba52
 ---
+This resource contains the information regarding assignment 3: grant proposal.
+

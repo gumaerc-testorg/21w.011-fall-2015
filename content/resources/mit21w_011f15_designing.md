@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding designing evaluations
   in grant writing.
-file: /media/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/38075e80b3399eff388d8425f55c7123_MIT21W_011F15_designing.pdf
+file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/38075e80b3399eff388d8425f55c7123_MIT21W_011F15_designing.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -15,3 +15,5 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Designing Evalua
   in Grant Writing'
 uid: 38075e80-b339-9eff-388d-8425f55c7123
 ---
+This resource contains the information regarding designing evaluations in grant writing.
+

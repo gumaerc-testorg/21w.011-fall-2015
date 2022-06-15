@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course along with
+  the schedule of course topics, readings, and key dates.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -44,20 +46,20 @@ No readings
 {{< tdopen >}}
 
 
-[Why Write? (PDF)]({{< baseurl >}}/resources/mit21w_011f15_why)
+{{% resource_link 4354106a-4599-e8e9-a344-b5df7575befb "Why Write? (PDF)" %}}
 
-[Course Information Sheet (PDF)]({{< baseurl >}}/resources/mit21w_011f15_course)
+{{% resource_link c0b1d34a-0160-4597-f926-405f1c9da8aa "Course Information Sheet (PDF)" %}}
 
-[Writer's Letter (PDF)]({{< baseurl >}}/resources/mit21w_011f15_writers)
+{{% resource_link 2970b0ee-eff1-0d4f-2115-80755b593d17 "Writer's Letter (PDF)" %}}
 
-[Utopia Writing Exercise (PDF)]({{< baseurl >}}/resources/mit21w_011f15_utopia)
+{{% resource_link 4fec7ac5-e67e-3826-89d8-06658972cc7d "Utopia Writing Exercise (PDF)" %}}
 
-Exercise 1 (see page 3 of the [Essay 1 assignment PDF]({{< baseurl >}}/resources/mit21w_011f15_essay1))
+Exercise 1 (see page 3 of the {{% resource_link 2c89dae8-4595-6e5e-0fdd-88fbe173b1a3 "Essay 1 assignment PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Essay 1]({{< baseurl >}}/pages/assignments/major-writing-assignments#Essay_1) assigned.
+{{% resource_link 9c792343-837a-990f-cdb8-7552b6ece75c "Essay 1" "#Essay_1" %}} assigned.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Exercise 1 (see page 3 of the [Essay 1 assignment PDF]({{< baseurl >}}/resources
 
 Reasons to Believe: The Rhetoric of Classic American Political Speeches: Utopian and Dystopian Themes
 
-Peer Review Training. Sample Student Essay-in-progress: ["Not Saturday's Child" (PDF)]({{< baseurl >}}/resources/mit21w_011f15_not_sat)
+Peer Review Training. Sample Student Essay-in-progress: {{% resource_link e39e4419-79bf-919b-3778-ade11b9e9b86 "\"Not Saturday's Child\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -163,7 +165,7 @@ Representing Social Issues in Historical Context: Poverty and Wealth in the Indu
 
 Dickens, Charles. "[Stave 1: Marley's Ghost](http://www.stormfax.com/1dickens.htm)." In _A Christmas Carol_. 1843.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Carnegie, Andrew. ["Wealth." (PDF)]({{< baseurl >}}/resources/mit21w_011f15_carnegie) _The North American Review_ (1889): 653–64.
+Carnegie, Andrew. {{% resource_link 840e7879-771a-4a19-4ccd-8949bd9ba9af "\"Wealth.\" (PDF)" %}} _The North American Review_ (1889): 653–64.
 
 Goldstein, Jacob. "[Is It Nuts to Give to the Poor Without Strings Attached?](http://www.nytimes.com/2013/08/18/magazine/is-it-nuts-to-give-to-the-poor-without-strings-attached.html?_r=1)" _The New York Times Magazine_. August 13, 2013.
 
@@ -191,7 +193,7 @@ Part 2: What connections do you see between Carnegie's 19th century vision, and 
 
 Utopia writing exercise due.
 
-[Essay 2]({{< baseurl >}}/pages/assignments/major-writing-assignments#Essay_2) assigned.
+{{% resource_link 9c792343-837a-990f-cdb8-7552b6ece75c "Essay 2" "#Essay_2" %}} assigned.
 
 Oral presentation preferences due by email before the next class.
 
@@ -249,7 +251,7 @@ Kozol, Jonathan. "[Are the Homeless Crazy?](http://akashessays.blogspot.in/2008/
 
 Marin, Peter. "[Helping and Hating the Homeless: The Struggle at the Margins of America](https://msu.edu/~jdowell/135/PMarin.html)." _Harper's_ 274, no. 1640 (1987): 39–49.
 
-[The Use of Outside Sources in Narrative Essays (PDF)]({{< baseurl >}}/resources/mit21w_011f15_narrative)
+{{% resource_link 62acd587-1eb2-5cc2-a1c5-a29406a19f99 "The Use of Outside Sources in Narrative Essays (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -312,7 +314,7 @@ Ehrenreich, Barbara. "[Nickel-and-dimed: On (not) Getting by in America](http://
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 6: Questions on excerpt, Barbara Ehrenreich - Nickel and Dimed (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw6)
+{{% resource_link 5e2b9cd7-c1e7-3a9b-d079-a34a60694462 "Homework 6: Questions on excerpt, Barbara Ehrenreich - Nickel and Dimed (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Revision of Essay 1 due by email before the next class.
@@ -336,7 +338,7 @@ Kristof, Nicholas. "[Where Sweatshops Are a Dream](http://www.nytimes.com/2009/0
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 7: Questions on Kristof (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw7)
+{{% resource_link 61f15d95-b031-54b9-5bca-c65800d5b611 "Homework 7: Questions on Kristof (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Revised Proposal of Essay 2 due by email before the next class.
@@ -360,7 +362,7 @@ Holland, Jimmie, and Mindy Greenstein. "[The Atlantic is Wrong about Aging: Why 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 8: Questions on Emanuel, Holland and Greenstein (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw8)
+{{% resource_link bf228d15-3f90-40d3-6362-ad540a0e03b2 "Homework 8: Questions on Emanuel, Holland and Greenstein (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -378,7 +380,7 @@ Writers Engage with Contemporary Issues: The Politics of Food
 Kenner, Robert, and Eric Schlosser. [_Food, Inc_.](http://www.takepart.com/foodinc) 2008.
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 9: Questions on Food, Inc. (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw9)
+{{% resource_link 4fb4365d-90d5-9071-c773-2a2892fe6aa6 "Homework 9: Questions on Food, Inc. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Outline of Essay 2 and History / Background sections due by email before the next class.
@@ -402,7 +404,7 @@ Singer, Peter. "[All Animals are Equal](https://books.google.com/books?id=YKQmqF
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 10: Questions on the ethics of eating meat (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw10)
+{{% resource_link d61bc1d1-7323-84dc-12d9-7c5177b5fc46 "Homework 10: Questions on the ethics of eating meat (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -420,7 +422,7 @@ Writers Explore Contemporary Issues: Mental Health and Illness
 Excerpt of Kaysen, Susanna. "[Toward a Topography of the Parallel Universe](https://www.bookbrowse.com/excerpts/index.cfm?book_number=241)." In _Girl, Interrupted_. Vintage, 1994. ISBN: 9780679746041.
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 11: Questions on Girl, Interrupted (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw11)
+{{% resource_link 4fab06c1-0085-72f8-4621-43378f8851ea "Homework 11: Questions on Girl, Interrupted (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 First version of Essay 2 due by email before the next class.
@@ -438,7 +440,7 @@ Writers Explore Contemporary Issues: Mental Health and Illness (cont.)
 Thompson, Tracy. "Seeking The Wizards of Prozac." _The Saturday Evening Post_ 266, (1994): 50–53.
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 12: Questions on Thompson (PDF)]({{< baseurl >}}/resources/mit21w_011f15_hw12)
+{{% resource_link 49f436f8-ca5c-8318-524e-1a8710bc83f8 "Homework 12: Questions on Thompson (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -473,7 +475,7 @@ Living in the Age of Mass Media: The Influence of Advertising
 {{< tdopen >}}
 
 
-Jhally, Sut. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Image-based Culture." (PDF)](http://sites.psu.edu/comm292/wp-content/uploads/sites/5180/2014/08/Jhally-Image_Based_Culture_Excerpt.pdf) _Gender, race, and class in media: A Text-reader_. Sage, 1995.
+Jhally, Sut. ["Image-based Culture." (PDF)](http://sites.psu.edu/comm292/wp-content/uploads/sites/5180/2014/08/Jhally-Image_Based_Culture_Excerpt.pdf) _Gender, race, and class in media: A Text-reader_. Sage, 1995.
 
 Kilbourne, Jean. "[Beauty…and the Beast of Advertising](http://www.medialit.org/reading-room/beautyand-beast-advertising)." _Media & Values_ 49 (1990).
 
@@ -506,10 +508,10 @@ Introduction to Grant Proposal Writing: Identifying Needs; Designing Programs
  No readings
 {{< tdclose >}}
 {{< tdopen >}}
-[In-class writing on _Consuming Kids_ (PDF)]({{< baseurl >}}/resources/mit21w_011f15_consuming)
+{{% resource_link b965e30b-877d-4aba-8985-ad05e2e89fef "In-class writing on _Consuming Kids_ (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 3 (Grant Proposal)]({{< baseurl >}}/pages/assignments/major-writing-assignments#Assignment_3) assigned.
+{{% resource_link 9c792343-837a-990f-cdb8-7552b6ece75c "Assignment 3 (Grant Proposal)" "#Assignment_3" %}} assigned.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -578,7 +580,7 @@ The Pitch: Oral Presentations on Grant Ideas
  No readings
 {{< tdclose >}}
 {{< tdopen >}}
-[The Pitch (PDF)]({{< baseurl >}}/resources/mit21w_011f15_the_pitch)
+{{% resource_link 666d7412-1596-36da-e077-a5bd4acfb7d6 "The Pitch (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -596,7 +598,7 @@ Workshop: Assignment 3
  No readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: Assignment 3 (PDF)]({{< baseurl >}}/resources/mit21w_011f15_workshop)
+{{% resource_link cc04cf6e-205f-4e8a-9341-54394577ce13 "Workshop: Assignment 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 First version of Assignment 3 due.
@@ -638,7 +640,7 @@ The Pitch: Oral Presentations (cont.)
  No readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Reflection Letter (PDF)]({{< baseurl >}}/resources/mit21w_011f15_final)
+{{% resource_link 9df1f19d-8b55-cb67-f576-907801818ccd "Final Reflection Letter (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

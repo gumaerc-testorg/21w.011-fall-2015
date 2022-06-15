@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines on the revision process for writing
+  assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

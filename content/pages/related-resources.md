@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course, including
+  writing resources, grants, photography resources, and other resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,11 +13,11 @@ Writing Resources
 
 ### Handouts on the Research and Writing Process
 
-*   [Exercise on Research and Note-taking (PDF)]({{< baseurl >}}/resources/mit21w_011f15_research-1)
-*   [Example of Notes on a Scholarly Article (PDF)]({{< baseurl >}}/resources/mit21w_011f15_notes-1)
-*   [The Use of Outside Sources in Narrative Essays (PDF)]({{< baseurl >}}/resources/mit21w_011f15_narrative-1)
-*   [Working with Quotes (PDF)]({{< baseurl >}}/resources/mit21w_011f15_working)
-*   [Logical Fallacies (PDF)]({{< baseurl >}}/resources/mit21w_011f15_some-1)
+*   {{% resource_link e1e56354-7129-d252-df02-9d1cbf55d945 "Exercise on Research and Note-taking (PDF)" %}}
+*   {{% resource_link a386b6cd-a2b7-caac-4c16-b434eaccedad "Example of Notes on a Scholarly Article (PDF)" %}}
+*   {{% resource_link e3c24558-4f02-455b-6024-edfe52cce0c8 "The Use of Outside Sources in Narrative Essays (PDF)" %}}
+*   {{% resource_link a5dc4ea3-c499-b4f2-4011-d99fecc95962 "Working with Quotes (PDF)" %}}
+*   {{% resource_link e593ad67-dfae-1fa6-f0d8-e20f29ddb440 "Logical Fallacies (PDF)" %}}
 
 ### MIT Resources
 
@@ -50,7 +52,7 @@ Grants for Writing, Service, and Research
 -----------------------------------------
 
 *   [Eloranta](http://web.mit.edu/eloranta/) – The Peter J. Eloranta Summer Undergraduate Research Fellowships
-*   [MIT Internal Funding Sources (PDF)]({{< baseurl >}}/resources/mit21w_011f15_mitinternal)
+*   {{% resource_link 941c4520-e586-7b38-0412-991059359367 "MIT Internal Funding Sources (PDF)" %}}
 
 Photography Resources
 ---------------------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for the homework and class preparation
+  required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Homework and Class Preparation
 uid: afec655a-84e5-91dc-46a3-3677892e7504
 ---
 
-The general homework assignments are listed in the [Readings]({{< baseurl >}}/pages/readings) section.
+The general homework assignments are listed in the {{% resource_link 704190e8-756c-601b-1e7d-b54035f50703 "Readings" %}} section.
 
 The goal of regular homework assignments is to strengthen your skills in "reading as a writer," focusing on the ways in which authors craft their pieces to address audiences. Throughout the term, you will regularly submit short assignments (approx. 1–1½ typed pages, double-spaced) on required readings and films for class. Some homework assignments appear on the course calendar; others will be distributed in class or emailed to students. Some assignments will ask you to answer specific questions. Other homework assignments are more open-ended. These assignments will help to prepare you for class discussions as well as your own essay writing.
 

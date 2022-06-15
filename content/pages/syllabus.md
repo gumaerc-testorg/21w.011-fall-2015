@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings, grading, publishing your work, course
+  policies, and academic integrity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +43,7 @@ Readings
 
 Lunsford, Andrea A. _EasyWriter_. 5th ed. Bedford / St. Martin's, 2013. ISBN: 9781457640469.
 
-Various essays and articles are listed in the [Calendar]({{< baseurl >}}/pages/calendar). Students should print out all online readings at the beginning of the term and bring assigned articles with them to each class.
+Various essays and articles are listed in the {{% resource_link df93b3d3-5c0e-2179-e7c0-1593cba63d85 "Calendar" %}}. Students should print out all online readings at the beginning of the term and bring assigned articles with them to each class.
 
 Grading
 -------

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,7 +19,7 @@ This course aims to help students grow significantly as lively, engaged academic
 
 In addition to regular homework and pre-writing exercises, students will submit three major assignments in two stages: First version and revision. (A first version is a fully written piece submitted to fulfill assignment requirements, not an outline or partial essay.)
 
-*   [Homework and Class Preparation]({{< baseurl >}}/pages/assignments/homework-and-class-preparation)
-*   [Major Writing Assignments]({{< baseurl >}}/pages/assignments/major-writing-assignments)
-*   [Revision: A Multi-Step Process]({{< baseurl >}}/pages/assignments/revision-a-multi-step-process)
-*   [Oral Presentations]({{< baseurl >}}/pages/assignments/oral-presentations)
+*   {{% resource_link afec655a-84e5-91dc-46a3-3677892e7504 "Homework and Class Preparation" %}}
+*   {{% resource_link 9c792343-837a-990f-cdb8-7552b6ece75c "Major Writing Assignments" %}}
+*   {{% resource_link 43af068d-ac85-5ac7-9edc-2451cfe2dad6 "Revision: A Multi-Step Process" %}}
+*   {{% resource_link cda9baad-6032-0244-e9b7-58110cea9bb7 "Oral Presentations" %}}
