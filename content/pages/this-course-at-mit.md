@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section focuses on the course s it was taught by Dr. Andrea Walsh
+  in Fall 2015.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: This Course at MIT
