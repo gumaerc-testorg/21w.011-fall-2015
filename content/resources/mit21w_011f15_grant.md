@@ -6,6 +6,7 @@ file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Major Writing Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: A Basic Guide to
 uid: 19217cc2-3a25-3a00-daa4-909104f4979c
 ---
 This resource contains the information regarding a basic guide to grant writing.
-

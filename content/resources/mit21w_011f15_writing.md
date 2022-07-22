@@ -6,6 +6,7 @@ file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Major Writing Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Writing Tips for
 uid: 6133ca9f-62c4-7ee2-7c82-f37e470a1760
 ---
 This resource contains the information regarding writing tips for a grant proposal.
-

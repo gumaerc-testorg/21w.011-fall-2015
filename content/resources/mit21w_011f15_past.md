@@ -6,6 +6,7 @@ file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Some Past Topics
 uid: e647c3ad-bfe4-e0e9-544b-8f333c53a83b
 ---
 This resource contains the information regarding some past topics for essay 2.
-

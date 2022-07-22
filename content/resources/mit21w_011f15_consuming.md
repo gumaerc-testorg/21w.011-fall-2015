@@ -6,6 +6,7 @@ file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fal
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: In-class Writing
 uid: b965e30b-877d-4aba-8985-ad05e2e89fef
 ---
 This resource contains the information regarding in-class writing on consuming kids.
-

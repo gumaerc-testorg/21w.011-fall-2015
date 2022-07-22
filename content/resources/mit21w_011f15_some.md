@@ -5,6 +5,7 @@ file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fal
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Some Logical Fal
 uid: b8a42840-6139-8fdc-0375-c1dfd1049c62
 ---
 This resource contains the information regarding some logical fallacies.
-

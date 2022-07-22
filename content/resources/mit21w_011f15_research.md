@@ -6,6 +6,7 @@ file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fal
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: Research And The
 uid: 52ae5945-52c6-3244-88bf-a74c3b605de7
 ---
 This resource contains the information regarding research and the note-taking process: managing and understanding sources.
-
