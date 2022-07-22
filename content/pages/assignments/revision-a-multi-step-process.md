@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidelines on the revision process for writing
+  assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 685480e6-96f7-3c11-88af-5bb5057d8d98
 title: 'Revision: A Multi-Step Process'
 uid: 43af068d-ac85-5ac7-9edc-2451cfe2dad6

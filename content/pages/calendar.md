@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, and
+  assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: df93b3d3-5c0e-2179-e7c0-1593cba63d85
 ---
@@ -45,7 +49,7 @@ Introduction to the Class as a Writing Community; Why Write About Social and Eth
 
 Reasons to Believe: The Rhetoric of Classic American Political Speeches: Utopian and Dystopian Themes
 
-Peer Review Training. Sample Student Essay-in-progress: ["Not Saturday's Child" (PDF)]({{< baseurl >}}/resources/mit21w_011f15_not_sat)
+Peer Review Training. Sample Student Essay-in-progress: {{% resource_link e39e4419-79bf-919b-3778-ade11b9e9b86 "\"Not Saturday's Child\" (PDF)" %}}
 
 
 {{< tdclose >}}
