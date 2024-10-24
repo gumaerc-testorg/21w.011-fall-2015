@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding utopia writing exercise.
-file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/4fec7ac5e67e382689d806658972cc7d_MIT21W_011F15_Utopia.pdf
+file: /ol-ocw-studio-app/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/4fec7ac5e67e382689d806658972cc7d_MIT21W_011F15_Utopia.pdf
 file_size: 81108
 file_type: application/pdf
 learning_resource_types:
