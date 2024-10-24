@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding research and the note-taking
   process: managing and understanding sources.'
-file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/52ae594552c6324488bfa74c3b605de7_MIT21W_011F15_research.pdf
+file: /ol-ocw-studio-app/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/52ae594552c6324488bfa74c3b605de7_MIT21W_011F15_research.pdf
 file_size: 227245
 file_type: application/pdf
 learning_resource_types:
