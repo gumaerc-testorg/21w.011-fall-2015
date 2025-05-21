@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding essay 2: research/Investigative
   essay.'
-file: /ol-ocw-studio-app/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/5b044fdf8122d9a451a51c828c70d287_MIT21W_011F15_essay2.pdf
+file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/5b044fdf8122d9a451a51c828c70d287_MIT21W_011F15_essay2.pdf
 file_size: 131923
 file_type: application/pdf
 learning_resource_types:
