@@ -293,7 +293,7 @@ Living in the Age of Mass Media: The Influence of Advertising
 
 Jhally, Sut. ["Image-based Culture." (PDF)](http://sites.psu.edu/comm292/wp-content/uploads/sites/5180/2014/08/Jhally-Image_Based_Culture_Excerpt.pdf) *Gender, race, and class in media: A Text-reader*. Sage, 1995.
 
-Kilbourne, Jean. "[Beauty…and the Beast of Advertising](http://www.medialit.org/reading-room/beautyand-beast-advertising)." *Media & Values* 49 (1990).
+Kilbourne, Jean. "[Beauty…and the Beast of Advertising](https://www.sweetstudy.com/sites/default/files/qx/17/02/05/05/kilbourne_beauty_and_the_beast_of_advertising1.pdf)." *Media & Values* 49 (1990).
 
 [*Consuming Kids: The Commercialization of Childhood*](http://www.imdb.com/title/tt1337599/). Directed by Adriana Barbaro, and Jeremy Earp. Color, 66 min. 2008. (Preview available from [Media Education Foundation](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=134).)
 
