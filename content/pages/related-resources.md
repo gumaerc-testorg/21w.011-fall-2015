@@ -54,7 +54,6 @@ A unique student-run magazine featuring the international development experience
 
 ## Photography Resources
 
-- [American Memory Collections: Original Format: Photos & Prints](http://memory.loc.gov/cgi-bin/query/S?ammem/collections:@field%28FLD003+@band%28origf+Photograph%29%29:heading=Original+Format%3a+Photos+&+Prints).
 - [Documenting "The Other Half": The Social Reform Photography of Jacob Riis and Lewis Hine](http://xroads.virginia.edu/~ma01/davis/photography/images/riisphotos/slideshow1.html).
 - [The History Place: Child Labor in America 1908–1912. Photographs of Lewis H. Hine](http://www.historyplace.com/unitedstates/childlabor/).
 
