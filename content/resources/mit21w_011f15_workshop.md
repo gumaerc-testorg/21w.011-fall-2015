@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding workshop: assignment
   3.'
-file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/cc04cf6e205f4e8a934154394577ce13_MIT21W_011F15_workshop.pdf
+file: /ol-ocw-studio-app/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/cc04cf6e205f4e8a934154394577ce13_MIT21W_011F15_workshop.pdf
 file_size: 41012
 file_type: application/pdf
 learning_resource_types:
