@@ -139,9 +139,9 @@ Proposal for Essay 2 (first version) due by email before the next class.
 {{< tdopen >}}
 
 
-Library Session in the [Digital Instruction Resource Center](http://libraries.mit.edu/dirc/)
+Library Session in the {{% resource_link "b23ccfba-c5b6-41ae-8834-e2e3b3937778" "Digital Instruction Resource Center" %}}
 
-*   [MIT Library Guide](http://libguides.mit.edu/21w011)
+*   {{% resource_link "8b634d2f-bcf2-460c-92c6-4e7ba2dc8a95" "MIT Library Guide" %}}
 
 Peer Review of Essay 2 Proposals
 
